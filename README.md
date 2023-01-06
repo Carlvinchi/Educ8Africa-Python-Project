@@ -2,6 +2,8 @@
 
 -- Code to generate passwords 
 
+run **python pass_gen.py**
+
 
 CARLVINCHI
 
